@@ -1,0 +1,7 @@
+Glosa/Desc.
+Deb.Autom.
+Dinheiro
+CHQ
+C.Credito
+C.Debito
+Deposito
